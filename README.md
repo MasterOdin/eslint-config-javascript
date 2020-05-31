@@ -1,0 +1,1 @@
+# @masterodin/eslint-config-javascript

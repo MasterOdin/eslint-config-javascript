@@ -1,0 +1,35 @@
+{
+  "name": "@masterodin/eslint-config-javascript",
+  "version": "1.0.0",
+  "description": "Shareable eslint config for JavaScript projects",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint *.js",
+    "lint:fix": "eslint --fix *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MasterOdin/eslint-config-javascript.git"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Matthew Peveler <matt.peveler@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MasterOdin/eslint-config-javascript/issues"
+  },
+  "homepage": "https://github.com/MasterOdin/eslint-config-javascript#readme",
+  "publishConfig": {
+    "access": "public"
+  },
+  "engines": {
+    "node": ">= 10"
+  },
+  "peerDependencies": {
+    "eslint": ">= 7"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  }
+}
