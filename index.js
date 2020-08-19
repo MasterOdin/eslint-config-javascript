@@ -43,7 +43,7 @@ module.exports = {
     'prefer-arrow-callback': ['error'],
     'prefer-const': ['error'],
     'prefer-template': ['error'],
-    'quotes': ['error', 'single'],
+    'quotes': ['error', 'single', { 'avoidEscape': true }],
     'semi': ['error', 'always'],
     'semi-style': ['error', 'last'],
     'strict': 'error',
