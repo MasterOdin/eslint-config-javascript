@@ -24,12 +24,12 @@
     "access": "public"
   },
   "engines": {
-    "node": ">= 10"
+    "node": ">=10"
   },
   "peerDependencies": {
-    "eslint": ">= 7"
+    "eslint": ">=7.3"
   },
   "devDependencies": {
-    "eslint": "^7.1.0"
+    "eslint": "^7.3.0"
   }
 }
