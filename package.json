@@ -1,6 +1,6 @@
 {
   "name": "@masterodin/eslint-config-javascript",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Shareable eslint config for JavaScript projects",
   "main": "index.js",
   "scripts": {
